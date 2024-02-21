@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 -->
 My Quine:
 https://quine.sh/user/Ankitprajapati24
-Quine widge Code:
 
