@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Ankitprajapati24's GitHub | Stats](https://stats.quine.sh/Ankitprajapati24/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ankitprajapati24)
 
 <!--
 **Ankitprajapati24/Ankitprajapati24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +18,4 @@ Here are some ideas to get you started:
 My Quine:
 https://quine.sh/user/Ankitprajapati24
 Quine widge Code:
-[![Ankitprajapati24's GitHub | Stats](https://stats.quine.sh/Ankitprajapati24/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ankitprajapati24)
+
