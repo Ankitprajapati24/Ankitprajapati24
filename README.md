@@ -1,6 +1,3 @@
-### Hi there 👋
-[![Ankitprajapati24's GitHub | Stats](https://stats.quine.sh/Ankitprajapati24/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ankitprajapati24)
-
 <h2 align="left">Hi 👋! My name is Ankit Prajapati</h2>
 
 ###
@@ -84,4 +81,5 @@
 ###
 My Quine:
 https://quine.sh/user/Ankitprajapati24
+[![Ankitprajapati24's GitHub | Stats](https://stats.quine.sh/Ankitprajapati24/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ankitprajapati24)
 
