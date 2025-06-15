@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learing Ai and Application Development  <br>🌱 I’m currently learning React, open cv<br>💬 Ask me about Ai/ML<br>⚡ Fun fact I am not funny 
+🔭 I’m currently Learing Ai and Application Development  <br>🌱 I’m currently learning React, open cv<br>💬 Ask me about Ai/ML<br>⚡
 
 
 ## 🌐 Socials:
