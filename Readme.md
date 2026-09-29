@@ -2,11 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header" width="100%" alt="Header banner" />
 
-<sub>ANKIT PRAJAPATI / AI ENGINEERING</sub>
 
-# Curious about intelligence.<br>Hands-on with the code.
+# Hey, I'm Ankit Prajapati.
 
-LLM applications · AI agents · Reinforcement learning
+AI, intelligent systems, computer vision, and space & defence technology. LLM applications · AI agents · Reinforcement learning
 
 [GitHub](https://github.com/Ankitprajapati24) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/ankitprajapati04/) &nbsp; / &nbsp; [Email](mailto:ankitp2412@gmail.com)
 
@@ -18,7 +17,7 @@ I'm **Ankit**. I build AI applications and study how agents learn to make decisi
 
 That has taken me from translating hand gestures into speech to generating backend code with LLMs—and, at **IIT Madras**, experimenting with reinforcement learning.
 
-**Currently:** Undergraduate Research Intern at IIT Madras  
+**Currently:** Research Intern at IIT Madras  
 **A highlight:** Winning Smart India Hackathon 2025 with SERA
 
 ## Three problems I've built around
