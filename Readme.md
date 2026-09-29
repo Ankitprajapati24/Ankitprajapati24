@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header" width="100%" alt="Header banner" />
+
 <sub>ANKIT PRAJAPATI / AI ENGINEERING</sub>
 
 # Curious about intelligence.<br>Hands-on with the code.
