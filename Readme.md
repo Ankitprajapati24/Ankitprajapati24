@@ -5,7 +5,7 @@
 
 # Hey, I'm Ankit Prajapati.
 
-AI, intelligent systems, computer vision, and space & defence technology. LLM applications · AI agents · Reinforcement learning
+AI,LLM applications · AI agents · Reinforcement learning, computer vision, and space & defence technology.
 
 [GitHub](https://github.com/Ankitprajapati24) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/ankitprajapati04/) &nbsp; / &nbsp; [Email](mailto:ankitp2412@gmail.com)
 
