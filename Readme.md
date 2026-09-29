@@ -10,7 +10,7 @@ LLM applications · AI agents · Reinforcement learning
 
 [GitHub](https://github.com/Ankitprajapati24) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/ankitprajapati04/) &nbsp; / &nbsp; [Email](mailto:ankitp2412@gmail.com)
 
-
+</div>
 
 ---
 
@@ -92,4 +92,4 @@ I'd like to connect about **AI engineering opportunities**, research, and collab
 
 <sub>Ask a question. Build an experiment. See what holds up.</sub>
 
-</div>
+
